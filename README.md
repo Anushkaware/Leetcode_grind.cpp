@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0832-flipping-an-image) |
+| [1768-merge-strings-alternately](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0832-flipping-an-image) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
