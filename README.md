@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0832-flipping-an-image) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1768-merge-strings-alternately) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
