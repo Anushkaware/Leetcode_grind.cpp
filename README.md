@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1480-running-sum-of-1d-array) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0283-move-zeroes) |
 | [0832-flipping-an-image](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0832-flipping-an-image) |
 | [1768-merge-strings-alternately](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1768-merge-strings-alternately) |
 ## Bit Manipulation
