@@ -4,26 +4,43 @@ public:
     long long countNonDecreasingSubarrays(vector<int>& nums, int k) {
 
         int n = nums.size();
-        long long count = 0;
 
-        for(int i = 0; i < n; i++)
+        long long ans = 0;
+        long long cost = 0;
+
+        deque<int> dq;
+
+        int j = n - 1;
+
+        for(int i = n - 1; i >= 0; i--)
         {
-            int maxi = nums[i];
-            long long operations = 0;
-
-            for(int j = i; j < n; j++)
+            while(!dq.empty() && nums[dq.back()] < nums[i])
             {
-                maxi = max(maxi, nums[j]);
+                int l = dq.back();
+                dq.pop_back();
 
-                operations += maxi - nums[j];
+                int r = dq.empty() ? j + 1 : dq.back();
 
-                if(operations <= k)
-                {
-                    count++;
-                }
+                cost += 1LL * (r - l) * (nums[i] - nums[l]);
             }
+
+            dq.push_back(i);
+
+            while(cost > k)
+            {
+                cost -= nums[dq.front()] - nums[j];
+
+                if(dq.front() == j)
+                {
+                    dq.pop_front();
+                }
+
+                j--;
+            }
+
+            ans += j - i + 1;
         }
 
-        return count;
+        return ans;
     }
 };
