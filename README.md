@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1672-richest-customer-wealth) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0704-binary-search) |
+## Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
