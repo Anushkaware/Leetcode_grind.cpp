@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
