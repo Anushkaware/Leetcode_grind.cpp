@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0832-flipping-an-image) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -94,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0414-third-maximum-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0747-largest-number-at-least-twice-of-others) |
 <!---LeetCode Topics End-->
