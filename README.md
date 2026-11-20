@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0832-flipping-an-image) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
