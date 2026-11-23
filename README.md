@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0414-third-maximum-number](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0747-largest-number-at-least-twice-of-others) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anushkaware/Leetcode_grind.cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
